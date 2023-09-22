@@ -11,6 +11,85 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.testng:testng:7.8.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.36" level="project" />
+    <orderEntry type="library" name="Maven: com.beust:jcommander:1.82" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.webjars:jquery:3.6.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-java:7.11.2" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-core:7.11.2" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-gherkin-messages:7.11.2" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:gherkin:26.0.3" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:messages:21.0.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:tag-expressions:5.0.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-expressions:16.1.2" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:datatable:7.11.2" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:docstring:7.11.2" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:html-formatter:20.2.1" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:junit-xml-formatter:0.1.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:ci-environment:9.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apiguardian:apiguardian-api:1.1.2" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-gherkin:7.13.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-plugin:7.13.0" level="project" />
+    <orderEntry type="library" name="Maven: io.cucumber:cucumber-testng:7.12.1" level="project" />
+    <orderEntry type="library" name="Maven: tech.grasshopper:extentreports-cucumber7-adapter:1.13.0" level="project" />
+    <orderEntry type="library" name="Maven: tech.grasshopper:extent-pdf-report:2.11.0" level="project" />
+    <orderEntry type="library" name="Maven: tech.grasshopper:cucumber-pdf-report:2.13.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.pdfbox:pdfbox:2.0.26" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.pdfbox:fontbox:2.0.26" level="project" />
+    <orderEntry type="library" name="Maven: org.knowm.xchart:xchart:3.8.0" level="project" />
+    <orderEntry type="library" name="Maven: de.erichseifert.vectorgraphics2d:VectorGraphics2D:0.13" level="project" />
+    <orderEntry type="library" name="Maven: de.rototor.pdfbox:graphics2d:0.30" level="project" />
+    <orderEntry type="library" name="Maven: com.madgag:animated-gif-lib:1.4" level="project" />
+    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:2.0" level="project" />
+    <orderEntry type="library" name="Maven: tech.grasshopper:table-layout:1.5.1" level="project" />
+    <orderEntry type="library" name="Maven: tech.grasshopper:rest-assured-cucumber-pdf-report:1.4.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.15.3" level="project" />
+    <orderEntry type="library" name="Maven: com.aventstack:klov-reporter:5.0.9" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver:3.6.4" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-core:3.6.4" level="project" />
+    <orderEntry type="library" name="Maven: org.mongodb:bson:3.6.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.13" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.13" level="project" />
+    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.11" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpmime:4.5.13" level="project" />
+    <orderEntry type="library" name="Maven: tech.grasshopper:htmlextentreporter:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: tech.grasshopper:extent-excel-report:1.3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi:5.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-math3:3.6.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.11.0" level="project" />
+    <orderEntry type="library" name="Maven: com.zaxxer:SparseBitSet:1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.18.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml:5.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml-lite:5.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlbeans:xmlbeans:5.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-compress:1.21" level="project" />
+    <orderEntry type="library" name="Maven: com.github.virtuald:curvesapi:1.07" level="project" />
+    <orderEntry type="library" name="Maven: com.aventstack:extentreports:5.0.9" level="project" />
+    <orderEntry type="library" name="Maven: io.reactivex.rxjava3:rxjava:3.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.freemarker:freemarker:2.3.30" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.12" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.6" level="project" />
+    <orderEntry type="library" name="Maven: io.github.bonigarcia:webdrivermanager:5.4.1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java:3.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java-core:3.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java-api:3.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.3" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.3" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.3" level="project" />
+    <orderEntry type="library" name="Maven: org.bouncycastle:bcpkix-jdk15on:1.64" level="project" />
+    <orderEntry type="library" name="Maven: org.bouncycastle:bcprov-jdk15on:1.64" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.30" level="project" />
+    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java-transport-httpclient5:3.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java-transport:3.3.2" level="project" />
+    <orderEntry type="library" name="Maven: net.java.dev.jna:jna:5.12.1" level="project" />
+    <orderEntry type="library" name="Maven: org.brotli:dec:0.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.12.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents.client5:httpclient5:5.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents.core5:httpcore5:5.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents.core5:httpcore5-h2:5.2" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-java:4.11.0" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-api:4.11.0" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:4.11.0" level="project" />
@@ -69,36 +148,10 @@
     <orderEntry type="library" name="Maven: io.netty:netty-handler-proxy:4.1.60.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.60.Final" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-transport-native-kqueue:osx-x86_64:4.1.60.Final" level="project" />
-    <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.3" level="project" />
     <orderEntry type="library" name="Maven: com.typesafe.netty:netty-reactive-streams:2.0.4" level="project" />
     <orderEntry type="library" name="Maven: com.sun.activation:jakarta.activation:1.2.2" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-safari-driver:4.11.0" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-support:4.11.0" level="project" />
-    <orderEntry type="library" name="Maven: io.github.bonigarcia:webdrivermanager:5.4.1" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:2.0.7" level="project" />
-    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.10.1" level="project" />
-    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java:3.3.2" level="project" />
-    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java-core:3.3.2" level="project" />
-    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java-api:3.3.2" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.10.3" level="project" />
-    <orderEntry type="library" name="Maven: commons-io:commons-io:2.6" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.commons:commons-compress:1.21" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.3" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.3" level="project" />
-    <orderEntry type="library" name="Maven: org.bouncycastle:bcpkix-jdk15on:1.64" level="project" />
-    <orderEntry type="library" name="Maven: org.bouncycastle:bcprov-jdk15on:1.64" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.30" level="project" />
-    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java-transport-httpclient5:3.3.2" level="project" />
-    <orderEntry type="library" name="Maven: com.github.docker-java:docker-java-transport:3.3.2" level="project" />
-    <orderEntry type="library" name="Maven: net.java.dev.jna:jna:5.12.1" level="project" />
-    <orderEntry type="library" name="Maven: org.brotli:dec:0.1.2" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.12.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.httpcomponents.client5:httpclient5:5.2.1" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.httpcomponents.core5:httpcore5:5.2" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.httpcomponents.core5:httpcore5-h2:5.2" level="project" />
-    <orderEntry type="library" name="Maven: org.testng:testng:7.8.0" level="project" />
-    <orderEntry type="library" name="Maven: com.beust:jcommander:1.82" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: org.webjars:jquery:3.6.1" level="project" />
     <orderEntry type="library" name="Maven: com.github.javafaker:javafaker:1.0.2" level="project" />
     <orderEntry type="library" name="Maven: org.yaml:snakeyaml:android:1.23" level="project" />
     <orderEntry type="library" name="Maven: com.github.mifmif:generex:1.0.2" level="project" />
